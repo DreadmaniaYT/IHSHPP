@@ -1,8 +1,4 @@
-<h1 id="top" align="center">
-  <br>
-  <a href="https://github.com/DamagingRose/Rose-Grabber"><img src="https://raw.githubusercontent.com/DamagingRose/Rose-Grabber/main/resources/assets/rosebb.png" alt="R"></a>
-  <br>
-</h1>
+
 
 <div align="center" style="background-color: #da467d; padding: 20px;">
     <a href="https://discord.com/invite/KnVcxx4JUJ">
